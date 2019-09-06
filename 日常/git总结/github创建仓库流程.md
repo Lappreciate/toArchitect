@@ -44,6 +44,19 @@
 
 
 
+#### 第二种方式（摘自一个博客）
+
+`touch README.md` 
+`git init` 
+`git add README.md` 
+`git commit -m “first commit”` 
+`git remote add origin https://github.com/zxy987872674/LearnCode.git` 
+`git push -u origin master`
+
+
+
+
+
  
 
 
