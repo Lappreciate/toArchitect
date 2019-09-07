@@ -34,7 +34,7 @@
 
 ##### 6、然后尝试查看一下是否和远程分支关联上
 
-![](D:\toArchitect_shengyuan.liu\日常\img\gitbranch.jpg)
+![](../img\gitbranch.jpg)
 
 
 
